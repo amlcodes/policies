@@ -1,4 +1,6 @@
-# Basecamp Policies, Terms, and Legal Stuff
+from the amazing work at Basecamp: [Basecamp/Policies](https://github.com/basecamp/policies)
+
+# Policies, Terms, and Legal Stuff
 
 The rough print and the fine print. We try to make all our policies as clear, fair, and readable as possible.
 
